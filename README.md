@@ -1,10 +1,10 @@
 # 🗣️ Chatbot UI with LangChain and Streamlit  
-
 <p align="center">
     <a href="https://github.com/M-RezaeiGH">
-        <img src="https://github.com/user-attachments/assets/606f038d-0bc6-4937-8d74-faea00e0b886" alt="Project Badge">
+        <img src="content/logo.png" alt="Project Badge" width="300">
     </a>
 </p>
+
 
 <p align="center">
     <a href="https://www.langchain.com">
